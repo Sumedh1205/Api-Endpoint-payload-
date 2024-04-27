@@ -1,0 +1,15 @@
+{
+  "name": "elegere.ai",
+  "version": "1.0.0",
+  "description": "Assingment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SUMEDH WAKLE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
