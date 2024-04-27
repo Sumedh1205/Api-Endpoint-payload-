@@ -1,0 +1,31 @@
+1)API: http://localhost:3000/insertbook
+
+Payload: 
+{
+    "title":"JavaScript",
+    "author":"SumedhWakle",
+    "isbn":"8787646577",
+    "publication_date":"2025-06-7"
+}
+method type: post
+
+
+2)API: http://localhost:3000/updatebook
+Payload:
+{   
+    "id":"8",
+    "title":"Css",
+    "author":"Alka",
+    "isbn":"7658398232"
+"publication_date":"2024-06-7"
+}
+
+
+3)http://localhost:3000/deletebook
+Payload:
+{
+    "id":"8"
+}
+
+
+
